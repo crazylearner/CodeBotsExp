@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modelink threeWay="true" forceExeedL="true" forceExeedM="true" forceExeedR="true">
+  <model path="/f3e51905.drinkwater.models/ui/drinkwater.angularbotui" position="LEFT" />
+  <model path="/f3e51905.drinkwater.models/entity/drinkwater.springbotentity" position="MIDDLE" />
+  <model path="/f3e51905.drinkwater.models/security/drinkwater.commonsecurity" position="RIGHT" />
+</modelink>
